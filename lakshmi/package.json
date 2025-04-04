@@ -1,0 +1,21 @@
+{
+  "name": "lakshmi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc && node ./dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/ws": "^8.18.1",
+    "lakshmi": "file:",
+    "typescript": "^5.8.2",
+    "ws": "^8.18.1"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
